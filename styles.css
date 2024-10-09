@@ -1,0 +1,22 @@
+.title{
+    text-align: center;
+    background-color: aqua;
+    font-family: Copperplate, fantasy;
+    font-style: italic;
+}
+.links {
+    
+    padding: 20px;
+    list-style-image: url(https://www.gifs.cc/bullets/green-rolling-bullet-animated.gif) ;
+    list-style-position: inside;
+    
+
+}
+.main.link{
+    font-family: 'Lucida Console', Monospace;
+    font-weight: 800;
+    margin: 5px;
+    padding: 20px;
+    background: aqua;
+    
+}
