@@ -20,6 +20,13 @@
     background: aqua;
     
 }
+
+li {
+    list-style-image: url(https://www.gifs.cc/bullets/green-rolling-bullet-animated.gif);
+    list-style-position: inside;
+    display: list-item;
+ }
+
 .steak-tacos-title {
     text-align: center;
     color:limegreen; 
@@ -28,11 +35,12 @@
 .steak-img { 
     border-radius: 50%;
     padding: 5px;
-    margin-left: 200;
+    margin-left: 600;
     margin-right: auto;
 }
 .steak-description {
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .steak-description-para {
     text-align: center;
@@ -40,17 +48,57 @@
 }
 .steak-ingredients {
     text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.steak-ingredient-list-container {
+    text-align: center;
+}
+
+.steak-ingredient-list{
+    display: inline-block;
     font-family: Arial, Helvetica, sans-serif;
+
 }
-li {
-   list-style-image: url(https://www.gifs.cc/bullets/green-rolling-bullet-animated.gif);
-   list-style-position: inside;
-   display: list-item;
-}
+
 .steak-steps{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 .step-list{
     font-family: Arial, sans-serif;
+}
+
+.chicken-title {
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.chicken-img{
+    border-radius: 25%;
+    margin-left: 600;
+}
+.chicken-description-title{
+    text-align: center;
+    font-family: Tahoma, sans-serif;
+}
+.chicken-description-para {
+    text-align: center;
+    font-family: Geneva, sans-serif;
+}
+.chicken-ingredients-title {
+    font-weight: 600;
+    text-align: center;
+    font-family: Tahoma, sans-serif;
+}
+.chicken-ingredients-list{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.chicken-steps-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+.chicken-steps-list {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
