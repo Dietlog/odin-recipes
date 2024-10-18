@@ -102,3 +102,40 @@ li {
 .chicken-steps-list {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.biscuit-title {
+    font-weight: 800;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.biscuit-img{
+    margin-left: 600;
+    border-radius: 50%;
+}
+.biscuit-description {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    font-weight: 600;
+}
+.biscuit-description-para{
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+    font-style: italic;
+}
+.biscuit-ingredients {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+.biscuit-ingredient-list {
+    font-family: Tahoma, sans-serif;
+}
+.biscuit-steps {
+    text-align: center;
+    font-family: Geneva, sans-serif;
+    font-weight: 600;
+}
+
+.biscuit-step-list {
+    font-family: Geneva, sans-serif;
+
+}
